@@ -28,7 +28,7 @@ and again a path will be computed, until all requests have been added to the lis
 The solution will only show up if a viable path can be found with the current number 
 of requests. 
 
-clingo fsplaner-py.rshot.lp
+clingo fsplaner-py-rshot.lp
 
 
 Example solution:
